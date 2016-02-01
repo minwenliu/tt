@@ -1,0 +1,4 @@
+*.a
+src/**/*.o
+src/**/*.d
+#client
